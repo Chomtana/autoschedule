@@ -38,7 +38,7 @@ generate("talks2019.yaml", schedule_page="./timetable.html", talks_page="./cours
 
 ### Step 1: Install ScheduleShortcode plugins
 
-Copy [ScheduleShortcode.py](https://github.com/Chomtana/autoschedule/blob/master/ScheduleShortcode.py) and ScheduleShortcode.plugin from this repository to plugins/schedule folder in your nikola setup
+Copy [ScheduleShortcode.py](https://github.com/Chomtana/autoschedule/blob/master/ScheduleShortcode.py) and [ScheduleShortcode.plugin](https://github.com/Chomtana/autoschedule/blob/master/ScheduleShortcode.plugin) from this repository to plugins/schedule folder in your nikola setup
 
 *Note: if folder doesn't exists, create new one*
 
