@@ -1,4 +1,4 @@
-# autoschedule
+# autoschedule by Chomtana
 
 Generate schedule, talks, speakers page automatically like official Pycon thailand 2019 website: https://th.pycon.org
 
