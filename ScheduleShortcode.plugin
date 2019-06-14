@@ -1,0 +1,12 @@
+[Core]
+name = ScheduleShortcode
+module = ScheduleShortcode
+
+[Nikola]
+PluginCategory = Shortcode
+
+[Documentation]
+author = Chomtana
+version = 0.1
+website = https://github.com/Chomtana/autoschedule
+description = Generate schedule, talks, speakers page automatically like official Pycon thailand 2019 website: https://th.pycon.org
